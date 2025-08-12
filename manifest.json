@@ -1,0 +1,12 @@
+{
+	"domain": "sysav_next",
+	"name": "SYSAV Nästa Tömning",
+	"version": "0.1.0",
+	"documentation": "https://github.com/Senth/sysav-home-assistant",
+	"issue_tracker": "https://github.com/Senth/sysav-home-assistant/issues",
+	"iot_class": "cloud_polling",
+	"codeowners": ["@Senth"],
+	"config_flow": true,
+	"requirements": ["aiohttp>=3.9.0", "yarl>=1.9.0"],
+	"dependencies": []
+}

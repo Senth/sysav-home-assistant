@@ -1,0 +1,23 @@
+{
+	"config": {
+		"step": {
+			"user": {
+				"title": "SYSAV Next Collection",
+				"description": "Enter address details. Leave API base empty for auto-detection.",
+				"data": {
+					"municipality": "Municipality",
+					"street": "Street",
+					"number": "Street Number",
+					"city": "City",
+					"api_base": "API Base (optional)"
+				}
+			}
+		},
+		"error": {
+			"invalid_url": "Invalid URL",
+			"discovery_failed": "Could not automatically find API base",
+			"address_not_found": "Address could not be confirmed",
+			"unknown": "Unknown error"
+		}
+	}
+}

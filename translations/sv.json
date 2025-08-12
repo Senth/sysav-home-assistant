@@ -1,0 +1,23 @@
+{
+	"config": {
+		"step": {
+			"user": {
+				"title": "SYSAV Nästa Tömning",
+				"description": "Ange adressuppgifter. Lämna API-bas tom för auto-detektering.",
+				"data": {
+					"municipality": "Kommun",
+					"street": "Gata",
+					"number": "Nummer",
+					"city": "Ort",
+					"api_base": "API-bas (valfritt)"
+				}
+			}
+		},
+		"error": {
+			"invalid_url": "Ogiltig URL",
+			"discovery_failed": "Kunde inte hitta API-bas automatiskt",
+			"address_not_found": "Adressen kunde inte bekräftas",
+			"unknown": "Okänt fel"
+		}
+	}
+}

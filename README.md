@@ -1,4 +1,4 @@
-# SYSAV Nästa Tömning (inofficiell)
+# WIP - Not working yet. SYSAV Nästa Tömning (inofficiell)
 
 Hämtar nästa tömningsdatum för Kärl 1 och Kärl 2 från SYSAV:s "Min sophämtning" (Kävlinge, Lomma, Svedala).
 
